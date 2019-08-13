@@ -1,0 +1,11 @@
+Event KEYWORD1
+
+now KEYWORD2
+stop KEYWORD2
+continue KEYWORD2
+reset KEYWORD2
+add KEYWORD2
+getCreationTime KEYWORD2
+getStartTime KEYWORD2
+getElapsedTime KEYWORD2
+getRemainingTime KEYWORD2
